@@ -3,7 +3,7 @@
 Restfull API created for technical validation in a job interview.
 
 
-###Note
+### Note
 - Developed with .Net Core 6.0
 - Created with Visual Studio for Mac IDE
 
