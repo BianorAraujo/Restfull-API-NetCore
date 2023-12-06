@@ -1,9 +1,9 @@
-# Restfull-API-NetCore
+# Rest-api-net6
 
-Restfull API created for technical validation in a job interview.
+Rest API created for technical validation in a job interview.
 
 
 ### Note
-- Developed with .Net Core 6.0
+- Developed with .Net 6.0
 - Created with Visual Studio for Mac IDE
 
